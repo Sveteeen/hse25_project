@@ -1,6 +1,7 @@
 # hse25_project
 ## описание выбранного организма
-### Acytostelium subglobosum LB1
+### Acytostelium subglobosum LB1 
+это редкий вид слизевиков (миксомицетов), относящийся к порядку Dictyosteliida.
 
 | Название гена       | Проверяемое семейство     |
 |----------------------|---------------------------|
@@ -18,7 +19,7 @@
 | UCH                 | SAMD00019534_077530      |
 
 
-тетрадка hmmer - https://colab.research.google.com/drive/12APeonQHaY0-hLMrClodY_RekTYAI-jR?usp=sharing
+тетрадка hmmer - https://colab.research.google.com/drive/12APeonQHaY0-hLMrClodY_RekTYAI-jR?usp=sharing 
 посчет квадруплексов - https://colab.research.google.com/drive/1_LIJ96bqoTg7lDWSic1kJPiSlp6cy8rm?usp=sharing
 подсчет предсказаний zhunt- https://colab.research.google.com/drive/1k-Pm-4STawGPHURumybmOB6GitA0r9-Q?usp=sharing
 подсчет предсказаний zdnabert - https://colab.research.google.com/drive/1neOrVb-eTRY_TzmRhKIod4UaRweBfpfx?usp=sharing
