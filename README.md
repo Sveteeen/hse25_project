@@ -1,16 +1,24 @@
 # hse25_project
 ## описание выбранного организма
+### Acytostelium subglobosum LB1
+
+| Название гена       | Проверяемое семейство     |
+|----------------------|---------------------------|
+| BTB                 | SAMD00019534_074360      |
+| Cupin_B             | SAMD00019534_089670      |
+| Cir_N               | SAMD00019534_090110      |
+| Cullin              | SAMD00019534_097380      |
+| DEAD                | SAMD00019534_098350      |
+| DNA_methylase       | SAMD00019534_008700      |
+| DND1_DSRM          | SAMD00019534_050110      |
+| FAT                 | SAMD00019534_052220      |
+| NAP                 | SAMD00019534_092910      |
+| Hist_deacetyl       | SAMD00019534_037020      |
+| Helicase_C          | SAMD00019534_123110      |
+| UCH                 | SAMD00019534_077530      |
 
 
-| Проверяемое семейство | Название гена | Координаты гена (можно без них) |
-|-----------------------|---------------|---------------------------------|
-|                       |               |                                 |
-|                       |               |                                 |
-|                       |               |                                 |
-|                       |               |                                 |
-|                       |               |                                 |
-
-
+тетрадка hmmer - https://colab.research.google.com/drive/12APeonQHaY0-hLMrClodY_RekTYAI-jR?usp=sharing
 посчет квадруплексов - https://colab.research.google.com/drive/1_LIJ96bqoTg7lDWSic1kJPiSlp6cy8rm?usp=sharing
 подсчет предсказаний zhunt- https://colab.research.google.com/drive/1k-Pm-4STawGPHURumybmOB6GitA0r9-Q?usp=sharing
 подсчет предсказаний zdnabert - https://colab.research.google.com/drive/1neOrVb-eTRY_TzmRhKIod4UaRweBfpfx?usp=sharing
