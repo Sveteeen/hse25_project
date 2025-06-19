@@ -18,12 +18,10 @@
 | UCH                 | SAMD00019534_077530      |
 
 
-тетрадка hmmer - https://colab.research.google.com/drive/12APeonQHaY0-hLMrClodY_RekTYAI-jR?usp=sharing 
-
-
-посчет квадруплексов - https://colab.research.google.com/drive/1_LIJ96bqoTg7lDWSic1kJPiSlp6cy8rm?usp=sharing
-подсчет предсказаний zhunt - https://colab.research.google.com/drive/1k-Pm-4STawGPHURumybmOB6GitA0r9-Q?usp=sharing
-подсчет предсказаний zdnabert - https://colab.research.google.com/drive/1neOrVb-eTRY_TzmRhKIod4UaRweBfpfx?usp=sharing
+тетрадка hmmer - https://colab.research.google.com/drive/12APeonQHaY0-hLMrClodY_RekTYAI-jR?usp=sharing <br>
+посчет квадруплексов - https://colab.research.google.com/drive/1_LIJ96bqoTg7lDWSic1kJPiSlp6cy8rm?usp=sharing <br>
+подсчет предсказаний zhunt - https://colab.research.google.com/drive/1k-Pm-4STawGPHURumybmOB6GitA0r9-Q?usp=sharing <br>
+подсчет предсказаний zdnabert - https://colab.research.google.com/drive/1neOrVb-eTRY_TzmRhKIod4UaRweBfpfx?usp=sharing <br>
 
 таблица, показывающая распределение квадруплексов, предсказаний zhunt, предсказаний zdnabert по участкам генома, а также в таблице описывается сравнение с фоном: 
 | Участок    | Число G4 | Доля G4 | Доля G4 по длине | Число предсказаний Zhunt | Доля предсказаний Zhunt | Доля Z-ДНК по длине | Число предсказаний ZDNABERT | Доля предсказаний ZDNABERT | Доля предсказаний ZDNAbert по длине |
@@ -33,6 +31,8 @@
 | Promoters (1000 up from TSS)  |       217           |     18,67%         | 0.056%     |        33148             |      44,78%             | 5.10%   |      910                   |       15,69%              | 0.10%  |
 | Downstream (200 bp)       |       111           |     9,55%          | 0.13%     |        6668              |           9%            | 4.98%   |        276                 |        4,75%              | 0.16%  |
 | Intergenic             |       1123          |     96,64%         | 0.33%     |          29483           |        39,82%           | 5.82   |        562                 |        9,69%              | 0.09%  |
+
+таблица, показывающая распределение участков по содержанию в них структур:
 
 | Участок                          | Число участков с квадруплексом | Доля участков с предсказанным квадруплексом | Число участков предсказаний Zhunt | Доля участков с предсказанным Zhunt | Число участков предсказаний ZDNABERT | Доля участков с предсказанным ZDNABERT |
 |----------------------------------|---------------------|--------------------|--------------------------|-------------------------|----------------------------|---------------------------|
